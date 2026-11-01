@@ -1,0 +1,23 @@
+# Personal data: never commit
+tracker.xlsx
+tracker*.xlsx
+*.xlsx
+*.xls
+*.docx
+*.pdf
+CV/
+Tailored CVs/
+data/
+backups/
+NOTES.md
+NOTES*.md
+Bullet bank.xlsx
+Bullet rewrites.docx
+LCA_Disclosure_Data_*
+
+# Python
+__pycache__/
+*.pyc
+
+# Office lock files
+~$*
